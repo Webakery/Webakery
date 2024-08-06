@@ -66,7 +66,7 @@ body, html {
 
 .home {
     height: 100vh;
-    background: url('/Mainproject/templates/Home.jpg') no-repeat center center/cover;
+    background: url('/Webakery/templates/Home.jpg') no-repeat center center/cover;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -134,7 +134,7 @@ body, html {
 
 .services {
     padding: 100px 0;
-    background: url('/templates/services.jpg') no-repeat center center/cover;
+    background: url('/Webakery/templates/services.jpg') no-repeat center center/cover;
     color: white;
     position: relative;
 }
@@ -294,7 +294,7 @@ body {
 
 .about {
     padding: 150px 0;
-    background: url('/templates/aboutbg1.jpg') no-repeat center center/cover;
+    background: url('/Webakery/templates/aboutbg1.jpg') no-repeat center center/cover;
     color: rgb(248, 252, 251);
     position: relative;
 }
@@ -533,4 +533,3 @@ p +p{
   }
   
  
-  
